@@ -6,6 +6,6 @@ Different ways that we can store and manipulate data in Java.
 - ArrayList, Vector
 - LinkedList
 - Queue and List interfaces
-- Set
+- Set, HashSet
 - Stack
 - Map, HashMap
