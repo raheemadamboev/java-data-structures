@@ -3,7 +3,7 @@ Different ways that we can store and manipulate data in Java.
 
 **Java Data Structures**
 
-<img src="https://github.com/raheemadamboev/java-data-structures/blob/master/banner.png" />
+<img src="https://github.com/raheemadamboev/java-data-structures/blob/master/banner.jpg" />
 
 **Tech stack:**
 
